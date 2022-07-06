@@ -17,6 +17,3 @@ Step-2: Search for human faces and apply box over it if detected.
 Step-3: Crop the image and save it in a folder.
 Step-4: Print the right message in publisher as well as in subscriber.
 
-Results:
-
-![Screenshot](C:\Users\DELL\OneDrive\Desktop\megha\S4\ROS & RS)
